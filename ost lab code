@@ -19,6 +19,6 @@ int main()
 
     cout << "Enter a number: ";
     cin >> num;
-
+    fun(num);
     return 0;
 }
